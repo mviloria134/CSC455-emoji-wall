@@ -1,0 +1,1 @@
+This is an app that lets users on the same network post to the same emoji wall.
